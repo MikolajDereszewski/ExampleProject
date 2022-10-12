@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60608fff5fef06b48a2e0b8be72eef6d, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  <DefaultPlayerHealth>k__BackingField: 15
+  _waveSettings:
+  - {fileID: 11400000, guid: 6f3f3f1d2f25f0846bb1f58fce7e5f95, type: 2}
+  - {fileID: 11400000, guid: a477408c295a8164f9f4d77fae77c5cd, type: 2}
+  - {fileID: 11400000, guid: 50fc5449a5cce614584da462cc0570bc, type: 2}
+  - {fileID: 11400000, guid: 5d324038656f28748aae826459d2037c, type: 2}
+  - {fileID: 11400000, guid: 2fdb08be31164624ab889892cd05780e, type: 2}
+  - {fileID: 11400000, guid: 8906da380eb503e44bc0d9a84f180c50, type: 2}
+  - {fileID: 11400000, guid: 10af8f33122c7ef40ab87e7d13874090, type: 2}
